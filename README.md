@@ -1,5 +1,5 @@
 # track_screen
-Python script that takes an image of screen every 10 seconds, along with a LaunchAgent for Mac to start it on wake.
+Python script that takes an image of screen every n seconds, along with a LaunchAgent for Mac to start it on wake.
 
 ### Purpose
 I'm gonna use some computer vision to process all these screenshots to give me a dashboard of what I spend time on using my computer (kinda like screentime for apple devices)
